@@ -43,7 +43,7 @@ http://localhost:3000/
 * Delete to-do list
 * Add to-do item to existing to-do list__(backend implementation only)__
 * Add dependency between to-do items__(backend implementation only)__
-* Each to-do item should have a name, description, deadline, and status__(backend implementation only)__
+* Each to-do item should have a name, description, deadline(backend implementation only)__
 * Mark to-do item as "Complete"__(backend implementation only)__
 
 == Screenshots
