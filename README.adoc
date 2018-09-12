@@ -38,7 +38,7 @@ http://localhost:3000/
 ----
 
 == Whats done and whats not
-* [line-through]#Create to-do lists. Each to-do list will have a name.#
+#Create to-do lists. Each to-do list will have a name.#
 * [line-through]#List of to-do lists.#
 * [line-through]#Delete to-do list#
 * Add to-do item to existing to-do list__(backend implementation only)__
